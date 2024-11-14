@@ -1,2 +1,0 @@
-# MyFirstNeatWork
-a website homepage
